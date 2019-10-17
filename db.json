@@ -1,0 +1,64 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Chocolate Cake",
+      "precioPlatillo": "300",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "nombrePlatillo": "Rib Eye 200g",
+      "precioPlatillo": "250",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Poutine",
+      "precioPlatillo": "300",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Lasaña",
+      "precioPlatillo": "200",
+      "categoria": "postre",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Poke",
+      "precioPlatillo": "250",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Croissant",
+      "precioPlatillo": "150",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Langosta",
+      "precioPlatillo": "500",
+      "categoria": "cortes",
+      "id": 7
+    },
+    {
+      "nombrePlatillo": "Pierogi",
+      "precioPlatillo": "400",
+      "categoria": "cortes",
+      "id": 8
+    },
+    {
+      "nombrePlatillo": "Helado",
+      "precioPlatillo": "100",
+      "categoria": "postre",
+      "id": 9
+    },
+    {
+      "nombrePlatillo": "Coctel de Frutas",
+      "precioPlatillo": "200",
+      "categoria": "bebida",
+      "id": 11
+    }
+  ]
+}
